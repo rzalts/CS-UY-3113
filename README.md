@@ -1,2 +1,5 @@
 # CS-UY-3113
-HWs and Projects 
+
+Project:
+
+Project 1: Simple 2D Scene

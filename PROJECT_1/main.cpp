@@ -116,7 +116,7 @@ void update() {
 
     gScale = {
         SCREEN_WIDTH + MAX_AMP * cos(gPulseTime),
-        120.0f + MAX_AMP * cos(gPulseTime)
+        SCREEN_HEIGHT / 7.0f + MAX_AMP * cos(gPulseTime)
     };
 
     gCurrBg = int(gPulseTime * FPS / 100) % 12;

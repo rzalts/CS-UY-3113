@@ -79,21 +79,21 @@ Vector2 gTablePos = {SCREEN_WIDTH / 2.0f, SCREEN_HEIGHT / 2.0f + 30.0f},
 
         gHalfPusher = {gPusher1Scale.x / 2.0f, gPusher1Scale.y / 2.0f};
 
-constexpr char HOCKEY_PUCK[] = "air_hockey_puck.png",
-               HOCKEY_PUSHER[] = "air_hockey_pusher.png",
-               HOCKEY_TABLE[] = "air_hockey_table.png",
-               SCORE_0[] = "score_0.png",
-               SCORE_1[] = "score_1.png",
-               SCORE_2[] = "score_2.png",
-               SCORE_3[] = "score_3.png",
-               SCORE_4[] = "score_4.png",
-               SCORE_5[] = "score_5.png",
-               SCORE_6[] = "score_6.png",
-               SCORE_7[] = "score_7.png",
-               SCORE_8[] = "score_8.png",
-               SCORE_9[] = "score_9.png",
-               WINNER_MEME[] = "WinnerMeme.jpg",
-               LOSER_MEME[] = "GameOverMeme.jpg";
+constexpr char HOCKEY_PUCK[] = "Project2_Pong_Variation/air_hockey_puck.png",
+               HOCKEY_PUSHER[] = "Project2_Pong_Variation/air_hockey_pusher.png",
+               HOCKEY_TABLE[] = "Project2_Pong_Variation/air_hockey_table.png",
+               SCORE_0[] = "Project2_Pong_Variation/score_0.png",
+               SCORE_1[] = "Project2_Pong_Variation/score_1.png",
+               SCORE_2[] = "Project2_Pong_Variation/score_2.png",
+               SCORE_3[] = "Project2_Pong_Variation/score_3.png",
+               SCORE_4[] = "Project2_Pong_Variation/score_4.png",
+               SCORE_5[] = "Project2_Pong_Variation/score_5.png",
+               SCORE_6[] = "Project2_Pong_Variation/score_6.png",
+               SCORE_7[] = "Project2_Pong_Variation/score_7.png",
+               SCORE_8[] = "Project2_Pong_Variation/score_8.png",
+               SCORE_9[] = "Project2_Pong_Variation/score_9.png",
+               WINNER_MEME[] = "Project2_Pong_Variation/WinnerMeme.jpg",
+               LOSER_MEME[] = "Project2_Pong_Variation/GameOverMeme.jpg";
 
 Texture2D gPuck[9];
 Texture2D gPusher;

@@ -9,3 +9,5 @@ Projects:
   Project 3: Lunar Lander Variation ✅ (03/12/2026)
 
   Project 4: Rise of The AI ✅ (04/01/2026)
+
+  Project 5: Under the Sea ✅ (04/20/2026)
